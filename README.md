@@ -1,1 +1,1 @@
-# GODING-EO-iOS
+# GODING-EO-iOS App
