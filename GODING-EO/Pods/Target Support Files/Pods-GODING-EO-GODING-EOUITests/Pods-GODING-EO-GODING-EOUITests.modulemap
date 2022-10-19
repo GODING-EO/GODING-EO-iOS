@@ -1,0 +1,6 @@
+framework module Pods_GODING_EO_GODING_EOUITests {
+  umbrella header "Pods-GODING-EO-GODING-EOUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

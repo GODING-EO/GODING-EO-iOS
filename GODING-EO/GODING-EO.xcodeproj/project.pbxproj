@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		135D2601F70EABC6D5CE9EEC /* Pods_GODING_EO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 946AD0DC8205DF182CF89E46 /* Pods_GODING_EO.framework */; };
+		198F6887DA47F0A4C2E76571 /* Pods_GODING_EOTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6BA91B0825E8BCE16A40D5F /* Pods_GODING_EOTests.framework */; };
+		2F5EBC7428EE815C002E7847 /* JoinViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F5EBC7328EE815C002E7847 /* JoinViewController.storyboard */; };
+		2F5EBC7728EEA3A6002E7847 /* NotoSansKR-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F5EBC7528EEA3A6002E7847 /* NotoSansKR-Bold.otf */; };
+		2F5EBC7828EEA3A6002E7847 /* NotoSansKR-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F5EBC7628EEA3A6002E7847 /* NotoSansKR-Thin.otf */; };
+		2F5EBC7A28EED7CB002E7847 /* SchoolViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5EBC7928EED7CB002E7847 /* SchoolViewController.swift */; };
+		2F5EBC7C28EED7E6002E7847 /* SchoolViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F5EBC7B28EED7E6002E7847 /* SchoolViewController.storyboard */; };
+		2F5EBC9228FFA043002E7847 /* SchoolCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F5EBC9028FFA043002E7847 /* SchoolCell.swift */; };
+		2F5EBC9328FFA043002E7847 /* SchoolCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F5EBC9128FFA043002E7847 /* SchoolCell.xib */; };
 		2F6D39E028E524E500953C6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D39DF28E524E500953C6D /* AppDelegate.swift */; };
 		2F6D39E228E524E500953C6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D39E128E524E500953C6D /* SceneDelegate.swift */; };
 		2F6D39E428E524E500953C6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D39E328E524E500953C6D /* ViewController.swift */; };
@@ -17,6 +26,12 @@
 		2F6D39FA28E524E600953C6D /* GODING_EOTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D39F928E524E600953C6D /* GODING_EOTests.swift */; };
 		2F6D3A0428E524E600953C6D /* GODING_EOUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D3A0328E524E600953C6D /* GODING_EOUITests.swift */; };
 		2F6D3A0628E524E600953C6D /* GODING_EOUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D3A0528E524E600953C6D /* GODING_EOUITestsLaunchTests.swift */; };
+		2F6D3A1D28E5392F00953C6D /* JoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6D3A1C28E5392F00953C6D /* JoinViewController.swift */; };
+		2F6D3AE728E9B46C00953C6D /* NotoSansKR-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F6D3AE628E9B46C00953C6D /* NotoSansKR-Black.otf */; };
+		2F6D3AE928E9B55E00953C6D /* NotoSansKR-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F6D3AE828E9B55E00953C6D /* NotoSansKR-Medium.otf */; };
+		2F6D3AEB28E9B5AC00953C6D /* NotoSansKR-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F6D3AEA28E9B5AC00953C6D /* NotoSansKR-Light.otf */; };
+		2F6D3AED28E9B5EB00953C6D /* NotoSansKR-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F6D3AEC28E9B5EB00953C6D /* NotoSansKR-Regular.otf */; };
+		8C7CADDD8A756CC00E7A239D /* Pods_GODING_EO_GODING_EOUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D134775D93CB7652C147BCEF /* Pods_GODING_EO_GODING_EOUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +52,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1AEE3A86E4FBE645519CBDFB /* Pods-GODING-EO-GODING-EOUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EO-GODING-EOUITests.release.xcconfig"; path = "Target Support Files/Pods-GODING-EO-GODING-EOUITests/Pods-GODING-EO-GODING-EOUITests.release.xcconfig"; sourceTree = "<group>"; };
+		2F5EBC7328EE815C002E7847 /* JoinViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = JoinViewController.storyboard; sourceTree = "<group>"; };
+		2F5EBC7528EEA3A6002E7847 /* NotoSansKR-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Bold.otf"; sourceTree = "<group>"; };
+		2F5EBC7628EEA3A6002E7847 /* NotoSansKR-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Thin.otf"; sourceTree = "<group>"; };
+		2F5EBC7928EED7CB002E7847 /* SchoolViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolViewController.swift; sourceTree = "<group>"; };
+		2F5EBC7B28EED7E6002E7847 /* SchoolViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SchoolViewController.storyboard; sourceTree = "<group>"; };
+		2F5EBC9028FFA043002E7847 /* SchoolCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolCell.swift; sourceTree = "<group>"; };
+		2F5EBC9128FFA043002E7847 /* SchoolCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SchoolCell.xib; sourceTree = "<group>"; };
 		2F6D39DC28E524E500953C6D /* GODING-EO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GODING-EO.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F6D39DF28E524E500953C6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F6D39E128E524E500953C6D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +74,19 @@
 		2F6D39FF28E524E600953C6D /* GODING-EOUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GODING-EOUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F6D3A0328E524E600953C6D /* GODING_EOUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GODING_EOUITests.swift; sourceTree = "<group>"; };
 		2F6D3A0528E524E600953C6D /* GODING_EOUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GODING_EOUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2F6D3A1C28E5392F00953C6D /* JoinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinViewController.swift; sourceTree = "<group>"; };
+		2F6D3AE628E9B46C00953C6D /* NotoSansKR-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Black.otf"; sourceTree = "<group>"; };
+		2F6D3AE828E9B55E00953C6D /* NotoSansKR-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Medium.otf"; sourceTree = "<group>"; };
+		2F6D3AEA28E9B5AC00953C6D /* NotoSansKR-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Light.otf"; sourceTree = "<group>"; };
+		2F6D3AEC28E9B5EB00953C6D /* NotoSansKR-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansKR-Regular.otf"; sourceTree = "<group>"; };
+		408B224CACD5CA46C3DDAF16 /* Pods-GODING-EO.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EO.release.xcconfig"; path = "Target Support Files/Pods-GODING-EO/Pods-GODING-EO.release.xcconfig"; sourceTree = "<group>"; };
+		946AD0DC8205DF182CF89E46 /* Pods_GODING_EO.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GODING_EO.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		971B146B6D06D28F1D489E1B /* Pods-GODING-EOTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EOTests.release.xcconfig"; path = "Target Support Files/Pods-GODING-EOTests/Pods-GODING-EOTests.release.xcconfig"; sourceTree = "<group>"; };
+		D134775D93CB7652C147BCEF /* Pods_GODING_EO_GODING_EOUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GODING_EO_GODING_EOUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D52EB7A4B9823BC2ADEFF3E1 /* Pods-GODING-EO-GODING-EOUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EO-GODING-EOUITests.debug.xcconfig"; path = "Target Support Files/Pods-GODING-EO-GODING-EOUITests/Pods-GODING-EO-GODING-EOUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		D6BA91B0825E8BCE16A40D5F /* Pods_GODING_EOTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GODING_EOTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F483D2B0A136D0015FF00936 /* Pods-GODING-EO.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EO.debug.xcconfig"; path = "Target Support Files/Pods-GODING-EO/Pods-GODING-EO.debug.xcconfig"; sourceTree = "<group>"; };
+		F7F8E65AAE59A19823EF6EAA /* Pods-GODING-EOTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GODING-EOTests.debug.xcconfig"; path = "Target Support Files/Pods-GODING-EOTests/Pods-GODING-EOTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				135D2601F70EABC6D5CE9EEC /* Pods_GODING_EO.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +102,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				198F6887DA47F0A4C2E76571 /* Pods_GODING_EOTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C7CADDD8A756CC00E7A239D /* Pods_GODING_EO_GODING_EOUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,10 +120,13 @@
 		2F6D39D328E524E500953C6D = {
 			isa = PBXGroup;
 			children = (
+				2F6D3AE528E9B3F900953C6D /* Fonts */,
 				2F6D39DE28E524E500953C6D /* GODING-EO */,
 				2F6D39F828E524E600953C6D /* GODING-EOTests */,
 				2F6D3A0228E524E600953C6D /* GODING-EOUITests */,
 				2F6D39DD28E524E500953C6D /* Products */,
+				69258AB7FA36F58918786AC2 /* Pods */,
+				C7972027A6B4AE4573A65DF0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,10 +147,16 @@
 				2F6D39E128E524E500953C6D /* SceneDelegate.swift */,
 				2F6D39E328E524E500953C6D /* ViewController.swift */,
 				2F6D39E528E524E500953C6D /* Main.storyboard */,
+				2F6D3A1C28E5392F00953C6D /* JoinViewController.swift */,
+				2F5EBC7328EE815C002E7847 /* JoinViewController.storyboard */,
+				2F5EBC7928EED7CB002E7847 /* SchoolViewController.swift */,
+				2F5EBC7B28EED7E6002E7847 /* SchoolViewController.storyboard */,
 				2F6D39EB28E524E600953C6D /* Assets.xcassets */,
 				2F6D39ED28E524E600953C6D /* LaunchScreen.storyboard */,
 				2F6D39F028E524E600953C6D /* Info.plist */,
 				2F6D39E828E524E500953C6D /* GODING_EO.xcdatamodeld */,
+				2F5EBC9028FFA043002E7847 /* SchoolCell.swift */,
+				2F5EBC9128FFA043002E7847 /* SchoolCell.xib */,
 			);
 			path = "GODING-EO";
 			sourceTree = "<group>";
@@ -130,6 +178,42 @@
 			path = "GODING-EOUITests";
 			sourceTree = "<group>";
 		};
+		2F6D3AE528E9B3F900953C6D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				2F5EBC7528EEA3A6002E7847 /* NotoSansKR-Bold.otf */,
+				2F5EBC7628EEA3A6002E7847 /* NotoSansKR-Thin.otf */,
+				2F6D3AEC28E9B5EB00953C6D /* NotoSansKR-Regular.otf */,
+				2F6D3AEA28E9B5AC00953C6D /* NotoSansKR-Light.otf */,
+				2F6D3AE828E9B55E00953C6D /* NotoSansKR-Medium.otf */,
+				2F6D3AE628E9B46C00953C6D /* NotoSansKR-Black.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		69258AB7FA36F58918786AC2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F483D2B0A136D0015FF00936 /* Pods-GODING-EO.debug.xcconfig */,
+				408B224CACD5CA46C3DDAF16 /* Pods-GODING-EO.release.xcconfig */,
+				D52EB7A4B9823BC2ADEFF3E1 /* Pods-GODING-EO-GODING-EOUITests.debug.xcconfig */,
+				1AEE3A86E4FBE645519CBDFB /* Pods-GODING-EO-GODING-EOUITests.release.xcconfig */,
+				F7F8E65AAE59A19823EF6EAA /* Pods-GODING-EOTests.debug.xcconfig */,
+				971B146B6D06D28F1D489E1B /* Pods-GODING-EOTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C7972027A6B4AE4573A65DF0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				946AD0DC8205DF182CF89E46 /* Pods_GODING_EO.framework */,
+				D134775D93CB7652C147BCEF /* Pods_GODING_EO_GODING_EOUITests.framework */,
+				D6BA91B0825E8BCE16A40D5F /* Pods_GODING_EOTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -137,9 +221,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F6D3A0928E524E600953C6D /* Build configuration list for PBXNativeTarget "GODING-EO" */;
 			buildPhases = (
+				ED843CD0AC6AA844B0085F63 /* [CP] Check Pods Manifest.lock */,
 				2F6D39D828E524E500953C6D /* Sources */,
 				2F6D39D928E524E500953C6D /* Frameworks */,
 				2F6D39DA28E524E500953C6D /* Resources */,
+				61DE1C382F43CDA665010849 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -154,6 +240,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F6D3A0C28E524E600953C6D /* Build configuration list for PBXNativeTarget "GODING-EOTests" */;
 			buildPhases = (
+				D11BD508C8CF383D65EB1B72 /* [CP] Check Pods Manifest.lock */,
 				2F6D39F128E524E600953C6D /* Sources */,
 				2F6D39F228E524E600953C6D /* Frameworks */,
 				2F6D39F328E524E600953C6D /* Resources */,
@@ -172,9 +259,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F6D3A0F28E524E600953C6D /* Build configuration list for PBXNativeTarget "GODING-EOUITests" */;
 			buildPhases = (
+				45163DF01FC1574A2250D27D /* [CP] Check Pods Manifest.lock */,
 				2F6D39FB28E524E600953C6D /* Sources */,
 				2F6D39FC28E524E600953C6D /* Frameworks */,
 				2F6D39FD28E524E600953C6D /* Resources */,
+				0D05BFA9CB31F63BE883BF68 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -234,9 +323,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F6D3AEB28E9B5AC00953C6D /* NotoSansKR-Light.otf in Resources */,
+				2F5EBC7C28EED7E6002E7847 /* SchoolViewController.storyboard in Resources */,
 				2F6D39EF28E524E600953C6D /* LaunchScreen.storyboard in Resources */,
 				2F6D39EC28E524E600953C6D /* Assets.xcassets in Resources */,
+				2F5EBC7428EE815C002E7847 /* JoinViewController.storyboard in Resources */,
+				2F5EBC7828EEA3A6002E7847 /* NotoSansKR-Thin.otf in Resources */,
+				2F5EBC7728EEA3A6002E7847 /* NotoSansKR-Bold.otf in Resources */,
+				2F6D3AE928E9B55E00953C6D /* NotoSansKR-Medium.otf in Resources */,
 				2F6D39E728E524E500953C6D /* Main.storyboard in Resources */,
+				2F6D3AE728E9B46C00953C6D /* NotoSansKR-Black.otf in Resources */,
+				2F6D3AED28E9B5EB00953C6D /* NotoSansKR-Regular.otf in Resources */,
+				2F5EBC9328FFA043002E7847 /* SchoolCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +354,109 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0D05BFA9CB31F63BE883BF68 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GODING-EO-GODING-EOUITests/Pods-GODING-EO-GODING-EOUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GODING-EO-GODING-EOUITests/Pods-GODING-EO-GODING-EOUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GODING-EO-GODING-EOUITests/Pods-GODING-EO-GODING-EOUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		45163DF01FC1574A2250D27D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GODING-EO-GODING-EOUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		61DE1C382F43CDA665010849 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GODING-EO/Pods-GODING-EO-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GODING-EO/Pods-GODING-EO-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GODING-EO/Pods-GODING-EO-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D11BD508C8CF383D65EB1B72 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GODING-EOTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ED843CD0AC6AA844B0085F63 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GODING-EO-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2F6D39D828E524E500953C6D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -264,6 +465,9 @@
 				2F6D39E428E524E500953C6D /* ViewController.swift in Sources */,
 				2F6D39EA28E524E500953C6D /* GODING_EO.xcdatamodeld in Sources */,
 				2F6D39E028E524E500953C6D /* AppDelegate.swift in Sources */,
+				2F5EBC9228FFA043002E7847 /* SchoolCell.swift in Sources */,
+				2F5EBC7A28EED7CB002E7847 /* SchoolViewController.swift in Sources */,
+				2F6D3A1D28E5392F00953C6D /* JoinViewController.swift in Sources */,
 				2F6D39E228E524E500953C6D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -436,18 +640,21 @@
 		};
 		2F6D3A0A28E524E600953C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F483D2B0A136D0015FF00936 /* Pods-GODING-EO.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GODING-EO/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -455,26 +662,30 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GODING-EO";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		2F6D3A0B28E524E600953C6D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 408B224CACD5CA46C3DDAF16 /* Pods-GODING-EO.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GODING-EO/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -482,14 +693,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GODING-EO";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		2F6D3A0D28E524E600953C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F7F8E65AAE59A19823EF6EAA /* Pods-GODING-EOTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -509,6 +722,7 @@
 		};
 		2F6D3A0E28E524E600953C6D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 971B146B6D06D28F1D489E1B /* Pods-GODING-EOTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -528,6 +742,7 @@
 		};
 		2F6D3A1028E524E600953C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D52EB7A4B9823BC2ADEFF3E1 /* Pods-GODING-EO-GODING-EOUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -545,6 +760,7 @@
 		};
 		2F6D3A1128E524E600953C6D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1AEE3A86E4FBE645519CBDFB /* Pods-GODING-EO-GODING-EOUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
